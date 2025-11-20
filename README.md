@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
   <head>
-  TEXT STYLES</title>
+  TEXT STYLES 
   </head>
   <BODY>
     <P><B> THIS LINE IS BOLD.</B></P>
